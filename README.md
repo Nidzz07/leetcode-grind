@@ -64,4 +64,20 @@ This repository is automatically synced with accepted LeetCode submissions using
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Nidzz07/leetcode-grind/tree/master/0069-sqrtx) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Nidzz07/leetcode-grind/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Nidzz07/leetcode-grind/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Nidzz07/leetcode-grind/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Nidzz07/leetcode-grind/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
