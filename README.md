@@ -64,12 +64,14 @@ This repository is automatically synced with accepted LeetCode submissions using
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Nidzz07/leetcode-grind/tree/master/0069-sqrtx) |
+| [0222-count-complete-tree-nodes](https://github.com/Nidzz07/leetcode-grind/tree/master/0222-count-complete-tree-nodes) |
 ## Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Nidzz07/leetcode-grind/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nidzz07/leetcode-grind/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Nidzz07/leetcode-grind/tree/master/0110-balanced-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/Nidzz07/leetcode-grind/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -87,4 +89,9 @@ This repository is automatically synced with accepted LeetCode submissions using
 | [0100-same-tree](https://github.com/Nidzz07/leetcode-grind/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nidzz07/leetcode-grind/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Nidzz07/leetcode-grind/tree/master/0110-balanced-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/Nidzz07/leetcode-grind/tree/master/0222-count-complete-tree-nodes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Nidzz07/leetcode-grind/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
