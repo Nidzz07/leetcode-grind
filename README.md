@@ -54,4 +54,12 @@ This repository is automatically synced with accepted LeetCode submissions using
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nidzz07/leetcode-grind/tree/master/0011-container-with-most-water) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Nidzz07/leetcode-grind/tree/master/0069-sqrtx) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Nidzz07/leetcode-grind/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
