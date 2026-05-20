@@ -98,6 +98,7 @@ This repository is automatically synced with accepted LeetCode submissions using
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Nidzz07/leetcode-grind/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Nidzz07/leetcode-grind/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Recursion
 |  |
 | ------- |
