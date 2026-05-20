@@ -94,4 +94,12 @@ This repository is automatically synced with accepted LeetCode submissions using
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Nidzz07/leetcode-grind/tree/master/0222-count-complete-tree-nodes) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Nidzz07/leetcode-grind/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Nidzz07/leetcode-grind/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
