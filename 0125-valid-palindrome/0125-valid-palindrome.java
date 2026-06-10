@@ -1,24 +1,36 @@
 class Solution {
     public boolean isPalindrome(String s) {
-        int left = 0, right = s.length() - 1;
-        
-        while (left < right) {
-            // skip non-alphanumeric from left
-            while (left < right && !Character.isLetterOrDigit(s.charAt(left))) 
-                left++;
-            // skip non-alphanumeric from right
-            while (left < right && !Character.isLetterOrDigit(s.charAt(right))) 
-                right--;
-            
-            // compare ignoring case
-            if (Character.toLowerCase(s.charAt(left)) != 
-                Character.toLowerCase(s.charAt(right))) 
+        int l = 0;
+        int r = s.length()-1;
+
+        while (l < r) {
+            char a = s.charAt(l);
+            char b = s.charAt(r);
+
+            if (a >= 'A' && a<= 'Z') {
+                a = (char) (a + 32);
+            }
+
+            if (b >= 'A' && b<= 'Z') {
+                b = (char) (b + 32);
+            }
+
+            if (!((a >= 'a' && a <= 'z') || (a >= '0' && a <= '9'))) {
+                l++;
+                continue;
+            }
+            if (!((b >= 'a' && b <= 'z') || (b >= '0' && b <= '9'))) {
+                r--;
+                continue;
+            }
+
+            if (a != b) {
                 return false;
-            
-            left++;
-            right--;
+            }
+            l++;
+            r--;
         }
-        
+
         return true;
     }
 }
