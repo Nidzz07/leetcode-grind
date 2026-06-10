@@ -65,6 +65,7 @@ This repository is automatically synced with accepted LeetCode submissions using
 | [0007-reverse-integer](https://github.com/Nidzz07/leetcode-grind/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Nidzz07/leetcode-grind/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Nidzz07/leetcode-grind/tree/master/0069-sqrtx) |
+| [0509-fibonacci-number](https://github.com/Nidzz07/leetcode-grind/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -113,6 +114,7 @@ This repository is automatically synced with accepted LeetCode submissions using
 | [0021-merge-two-sorted-lists](https://github.com/Nidzz07/leetcode-grind/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Nidzz07/leetcode-grind/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/Nidzz07/leetcode-grind/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/Nidzz07/leetcode-grind/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -125,4 +127,12 @@ This repository is automatically synced with accepted LeetCode submissions using
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Nidzz07/leetcode-grind/tree/master/0125-valid-palindrome) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Nidzz07/leetcode-grind/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Nidzz07/leetcode-grind/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
