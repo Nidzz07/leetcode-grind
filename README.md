@@ -62,6 +62,7 @@ This repository is automatically synced with accepted LeetCode submissions using
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Nidzz07/leetcode-grind/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/Nidzz07/leetcode-grind/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Nidzz07/leetcode-grind/tree/master/0069-sqrtx) |
 ## Binary Search
 |  |
