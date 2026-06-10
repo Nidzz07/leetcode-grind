@@ -52,6 +52,7 @@ This repository is automatically synced with accepted LeetCode submissions using
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nidzz07/leetcode-grind/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nidzz07/leetcode-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Nidzz07/leetcode-grind/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Nidzz07/leetcode-grind/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Nidzz07/leetcode-grind/tree/master/0234-palindrome-linked-list) |
 ## Greedy
@@ -120,4 +121,8 @@ This repository is automatically synced with accepted LeetCode submissions using
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Nidzz07/leetcode-grind/tree/master/0234-palindrome-linked-list) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Nidzz07/leetcode-grind/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
