@@ -47,6 +47,7 @@ This repository is automatically synced with accepted LeetCode submissions using
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nidzz07/leetcode-grind/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nidzz07/leetcode-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Nidzz07/leetcode-grind/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
 | ------- |
