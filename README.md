@@ -56,6 +56,7 @@ This repository is automatically synced with accepted LeetCode submissions using
 | [0125-valid-palindrome](https://github.com/Nidzz07/leetcode-grind/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Nidzz07/leetcode-grind/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Nidzz07/leetcode-grind/tree/master/0234-palindrome-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Nidzz07/leetcode-grind/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -109,6 +110,7 @@ This repository is automatically synced with accepted LeetCode submissions using
 | [0141-linked-list-cycle](https://github.com/Nidzz07/leetcode-grind/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/Nidzz07/leetcode-grind/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/Nidzz07/leetcode-grind/tree/master/0234-palindrome-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Nidzz07/leetcode-grind/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
