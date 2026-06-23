@@ -160,4 +160,8 @@ This repository is automatically synced with accepted LeetCode submissions using
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nidzz07/leetcode-grind/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Nidzz07/leetcode-grind/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
