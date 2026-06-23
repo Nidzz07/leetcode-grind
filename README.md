@@ -164,5 +164,6 @@ This repository is automatically synced with accepted LeetCode submissions using
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/Nidzz07/leetcode-grind/tree/master/0584-find-customer-referee) |
+| [0595-big-countries](https://github.com/Nidzz07/leetcode-grind/tree/master/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Nidzz07/leetcode-grind/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
