@@ -50,6 +50,7 @@ This repository is automatically synced with accepted LeetCode submissions using
 | [0066-plus-one](https://github.com/Nidzz07/leetcode-grind/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/Nidzz07/leetcode-grind/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Nidzz07/leetcode-grind/tree/master/0283-move-zeroes) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Nidzz07/leetcode-grind/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Nidzz07/leetcode-grind/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Nidzz07/leetcode-grind/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Two Pointers
@@ -168,6 +169,7 @@ This repository is automatically synced with accepted LeetCode submissions using
 | [0169-majority-element](https://github.com/Nidzz07/leetcode-grind/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Nidzz07/leetcode-grind/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Nidzz07/leetcode-grind/tree/master/0389-find-the-difference) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Nidzz07/leetcode-grind/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Counting
 |  |
 | ------- |
