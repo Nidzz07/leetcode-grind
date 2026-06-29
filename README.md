@@ -47,6 +47,7 @@ This repository is automatically synced with accepted LeetCode submissions using
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nidzz07/leetcode-grind/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nidzz07/leetcode-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/Nidzz07/leetcode-grind/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/Nidzz07/leetcode-grind/tree/master/0169-majority-element) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Nidzz07/leetcode-grind/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
@@ -69,6 +70,7 @@ This repository is automatically synced with accepted LeetCode submissions using
 | ------- |
 | [0007-reverse-integer](https://github.com/Nidzz07/leetcode-grind/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Nidzz07/leetcode-grind/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Nidzz07/leetcode-grind/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Nidzz07/leetcode-grind/tree/master/0069-sqrtx) |
 | [0509-fibonacci-number](https://github.com/Nidzz07/leetcode-grind/tree/master/0509-fibonacci-number) |
 ## Binary Search
