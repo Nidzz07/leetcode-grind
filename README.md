@@ -49,6 +49,7 @@ This repository is automatically synced with accepted LeetCode submissions using
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nidzz07/leetcode-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/Nidzz07/leetcode-grind/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/Nidzz07/leetcode-grind/tree/master/0169-majority-element) |
+| [0283-move-zeroes](https://github.com/Nidzz07/leetcode-grind/tree/master/0283-move-zeroes) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Nidzz07/leetcode-grind/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
@@ -59,6 +60,7 @@ This repository is automatically synced with accepted LeetCode submissions using
 | [0125-valid-palindrome](https://github.com/Nidzz07/leetcode-grind/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Nidzz07/leetcode-grind/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Nidzz07/leetcode-grind/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/Nidzz07/leetcode-grind/tree/master/0283-move-zeroes) |
 | [1768-merge-strings-alternately](https://github.com/Nidzz07/leetcode-grind/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Nidzz07/leetcode-grind/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Greedy
