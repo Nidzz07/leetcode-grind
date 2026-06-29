@@ -75,6 +75,7 @@ This repository is automatically synced with accepted LeetCode submissions using
 | ------- |
 | [0007-reverse-integer](https://github.com/Nidzz07/leetcode-grind/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Nidzz07/leetcode-grind/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Nidzz07/leetcode-grind/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Nidzz07/leetcode-grind/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Nidzz07/leetcode-grind/tree/master/0069-sqrtx) |
 | [0509-fibonacci-number](https://github.com/Nidzz07/leetcode-grind/tree/master/0509-fibonacci-number) |
@@ -133,6 +134,7 @@ This repository is automatically synced with accepted LeetCode submissions using
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Nidzz07/leetcode-grind/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Nidzz07/leetcode-grind/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Nidzz07/leetcode-grind/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Nidzz07/leetcode-grind/tree/master/0242-valid-anagram) |
@@ -145,6 +147,7 @@ This repository is automatically synced with accepted LeetCode submissions using
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Nidzz07/leetcode-grind/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Nidzz07/leetcode-grind/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nidzz07/leetcode-grind/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Nidzz07/leetcode-grind/tree/master/0125-valid-palindrome) |
