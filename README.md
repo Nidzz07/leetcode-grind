@@ -51,6 +51,7 @@ This repository is automatically synced with accepted LeetCode submissions using
 | [0169-majority-element](https://github.com/Nidzz07/leetcode-grind/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Nidzz07/leetcode-grind/tree/master/0283-move-zeroes) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Nidzz07/leetcode-grind/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Nidzz07/leetcode-grind/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,6 +76,7 @@ This repository is automatically synced with accepted LeetCode submissions using
 | [0066-plus-one](https://github.com/Nidzz07/leetcode-grind/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Nidzz07/leetcode-grind/tree/master/0069-sqrtx) |
 | [0509-fibonacci-number](https://github.com/Nidzz07/leetcode-grind/tree/master/0509-fibonacci-number) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Nidzz07/leetcode-grind/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Binary Search
 |  |
 | ------- |
