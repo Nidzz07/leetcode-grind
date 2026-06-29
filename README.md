@@ -51,6 +51,7 @@ This repository is automatically synced with accepted LeetCode submissions using
 | [0169-majority-element](https://github.com/Nidzz07/leetcode-grind/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Nidzz07/leetcode-grind/tree/master/0283-move-zeroes) |
 | [0896-monotonic-array](https://github.com/Nidzz07/leetcode-grind/tree/master/0896-monotonic-array) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Nidzz07/leetcode-grind/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Nidzz07/leetcode-grind/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Nidzz07/leetcode-grind/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Nidzz07/leetcode-grind/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -139,6 +140,7 @@ This repository is automatically synced with accepted LeetCode submissions using
 | [0169-majority-element](https://github.com/Nidzz07/leetcode-grind/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Nidzz07/leetcode-grind/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Nidzz07/leetcode-grind/tree/master/0389-find-the-difference) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Nidzz07/leetcode-grind/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 ## Stack
 |  |
 | ------- |
@@ -235,4 +237,12 @@ This repository is automatically synced with accepted LeetCode submissions using
 | [1907-count-salary-categories](https://github.com/Nidzz07/leetcode-grind/tree/master/1907-count-salary-categories) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Nidzz07/leetcode-grind/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Nidzz07/leetcode-grind/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Matrix
+|  |
+| ------- |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Nidzz07/leetcode-grind/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+## Simulation
+|  |
+| ------- |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Nidzz07/leetcode-grind/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 <!---LeetCode Topics End-->
