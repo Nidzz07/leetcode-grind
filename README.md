@@ -94,6 +94,7 @@ This repository is automatically synced with accepted LeetCode submissions using
 | [0066-plus-one](https://github.com/Nidzz07/leetcode-grind/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Nidzz07/leetcode-grind/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Nidzz07/leetcode-grind/tree/master/0069-sqrtx) |
+| [0445-add-two-numbers-ii](https://github.com/Nidzz07/leetcode-grind/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/Nidzz07/leetcode-grind/tree/master/0509-fibonacci-number) |
 | [0976-largest-perimeter-triangle](https://github.com/Nidzz07/leetcode-grind/tree/master/0976-largest-perimeter-triangle) |
 | [1041-robot-bounded-in-circle](https://github.com/Nidzz07/leetcode-grind/tree/master/1041-robot-bounded-in-circle) |
@@ -146,6 +147,7 @@ This repository is automatically synced with accepted LeetCode submissions using
 | [0203-remove-linked-list-elements](https://github.com/Nidzz07/leetcode-grind/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Nidzz07/leetcode-grind/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Nidzz07/leetcode-grind/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Nidzz07/leetcode-grind/tree/master/0445-add-two-numbers-ii) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Nidzz07/leetcode-grind/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
@@ -172,6 +174,7 @@ This repository is automatically synced with accepted LeetCode submissions using
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nidzz07/leetcode-grind/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Nidzz07/leetcode-grind/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Nidzz07/leetcode-grind/tree/master/0445-add-two-numbers-ii) |
 | [0682-baseball-game](https://github.com/Nidzz07/leetcode-grind/tree/master/0682-baseball-game) |
 ## String
 |  |
