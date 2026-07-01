@@ -53,6 +53,7 @@ This repository is automatically synced with accepted LeetCode submissions using
 | [0169-majority-element](https://github.com/Nidzz07/leetcode-grind/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Nidzz07/leetcode-grind/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/Nidzz07/leetcode-grind/tree/master/0682-baseball-game) |
+| [0860-lemonade-change](https://github.com/Nidzz07/leetcode-grind/tree/master/0860-lemonade-change) |
 | [0896-monotonic-array](https://github.com/Nidzz07/leetcode-grind/tree/master/0896-monotonic-array) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Nidzz07/leetcode-grind/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Nidzz07/leetcode-grind/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -77,6 +78,7 @@ This repository is automatically synced with accepted LeetCode submissions using
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nidzz07/leetcode-grind/tree/master/0011-container-with-most-water) |
+| [0860-lemonade-change](https://github.com/Nidzz07/leetcode-grind/tree/master/0860-lemonade-change) |
 ## Math
 |  |
 | ------- |
