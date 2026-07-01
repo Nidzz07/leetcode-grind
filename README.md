@@ -55,6 +55,7 @@ This repository is automatically synced with accepted LeetCode submissions using
 | [0682-baseball-game](https://github.com/Nidzz07/leetcode-grind/tree/master/0682-baseball-game) |
 | [0860-lemonade-change](https://github.com/Nidzz07/leetcode-grind/tree/master/0860-lemonade-change) |
 | [0896-monotonic-array](https://github.com/Nidzz07/leetcode-grind/tree/master/0896-monotonic-array) |
+| [0976-largest-perimeter-triangle](https://github.com/Nidzz07/leetcode-grind/tree/master/0976-largest-perimeter-triangle) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Nidzz07/leetcode-grind/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Nidzz07/leetcode-grind/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Nidzz07/leetcode-grind/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -79,6 +80,7 @@ This repository is automatically synced with accepted LeetCode submissions using
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nidzz07/leetcode-grind/tree/master/0011-container-with-most-water) |
 | [0860-lemonade-change](https://github.com/Nidzz07/leetcode-grind/tree/master/0860-lemonade-change) |
+| [0976-largest-perimeter-triangle](https://github.com/Nidzz07/leetcode-grind/tree/master/0976-largest-perimeter-triangle) |
 ## Math
 |  |
 | ------- |
@@ -88,6 +90,7 @@ This repository is automatically synced with accepted LeetCode submissions using
 | [0066-plus-one](https://github.com/Nidzz07/leetcode-grind/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Nidzz07/leetcode-grind/tree/master/0069-sqrtx) |
 | [0509-fibonacci-number](https://github.com/Nidzz07/leetcode-grind/tree/master/0509-fibonacci-number) |
+| [0976-largest-perimeter-triangle](https://github.com/Nidzz07/leetcode-grind/tree/master/0976-largest-perimeter-triangle) |
 | [1041-robot-bounded-in-circle](https://github.com/Nidzz07/leetcode-grind/tree/master/1041-robot-bounded-in-circle) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Nidzz07/leetcode-grind/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Nidzz07/leetcode-grind/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -193,6 +196,7 @@ This repository is automatically synced with accepted LeetCode submissions using
 | [0169-majority-element](https://github.com/Nidzz07/leetcode-grind/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Nidzz07/leetcode-grind/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Nidzz07/leetcode-grind/tree/master/0389-find-the-difference) |
+| [0976-largest-perimeter-triangle](https://github.com/Nidzz07/leetcode-grind/tree/master/0976-largest-perimeter-triangle) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Nidzz07/leetcode-grind/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Nidzz07/leetcode-grind/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Counting
