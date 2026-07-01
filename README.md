@@ -50,6 +50,7 @@ This repository is automatically synced with accepted LeetCode submissions using
 | [0066-plus-one](https://github.com/Nidzz07/leetcode-grind/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/Nidzz07/leetcode-grind/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Nidzz07/leetcode-grind/tree/master/0283-move-zeroes) |
+| [0682-baseball-game](https://github.com/Nidzz07/leetcode-grind/tree/master/0682-baseball-game) |
 | [0896-monotonic-array](https://github.com/Nidzz07/leetcode-grind/tree/master/0896-monotonic-array) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Nidzz07/leetcode-grind/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Nidzz07/leetcode-grind/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -146,6 +147,7 @@ This repository is automatically synced with accepted LeetCode submissions using
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nidzz07/leetcode-grind/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Nidzz07/leetcode-grind/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/Nidzz07/leetcode-grind/tree/master/0682-baseball-game) |
 ## String
 |  |
 | ------- |
@@ -245,5 +247,6 @@ This repository is automatically synced with accepted LeetCode submissions using
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Nidzz07/leetcode-grind/tree/master/0682-baseball-game) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Nidzz07/leetcode-grind/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 <!---LeetCode Topics End-->
