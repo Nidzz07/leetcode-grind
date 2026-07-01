@@ -86,6 +86,7 @@ This repository is automatically synced with accepted LeetCode submissions using
 | [0069-sqrtx](https://github.com/Nidzz07/leetcode-grind/tree/master/0069-sqrtx) |
 | [0509-fibonacci-number](https://github.com/Nidzz07/leetcode-grind/tree/master/0509-fibonacci-number) |
 | [1041-robot-bounded-in-circle](https://github.com/Nidzz07/leetcode-grind/tree/master/1041-robot-bounded-in-circle) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Nidzz07/leetcode-grind/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Nidzz07/leetcode-grind/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Binary Search
 |  |
