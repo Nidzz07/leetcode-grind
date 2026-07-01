@@ -47,6 +47,7 @@ This repository is automatically synced with accepted LeetCode submissions using
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nidzz07/leetcode-grind/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nidzz07/leetcode-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0054-spiral-matrix](https://github.com/Nidzz07/leetcode-grind/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Nidzz07/leetcode-grind/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/Nidzz07/leetcode-grind/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Nidzz07/leetcode-grind/tree/master/0283-move-zeroes) |
@@ -248,12 +249,14 @@ This repository is automatically synced with accepted LeetCode submissions using
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Nidzz07/leetcode-grind/tree/master/0054-spiral-matrix) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Nidzz07/leetcode-grind/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1572-matrix-diagonal-sum](https://github.com/Nidzz07/leetcode-grind/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Nidzz07/leetcode-grind/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Nidzz07/leetcode-grind/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/Nidzz07/leetcode-grind/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Nidzz07/leetcode-grind/tree/master/0682-baseball-game) |
 | [1041-robot-bounded-in-circle](https://github.com/Nidzz07/leetcode-grind/tree/master/1041-robot-bounded-in-circle) |
