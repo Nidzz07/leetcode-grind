@@ -59,6 +59,7 @@ This repository is automatically synced with accepted LeetCode submissions using
 | [0976-largest-perimeter-triangle](https://github.com/Nidzz07/leetcode-grind/tree/master/0976-largest-perimeter-triangle) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Nidzz07/leetcode-grind/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Nidzz07/leetcode-grind/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Nidzz07/leetcode-grind/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Nidzz07/leetcode-grind/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Nidzz07/leetcode-grind/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1572-matrix-diagonal-sum](https://github.com/Nidzz07/leetcode-grind/tree/master/1572-matrix-diagonal-sum) |
