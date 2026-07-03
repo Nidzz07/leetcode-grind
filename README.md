@@ -230,6 +230,7 @@ This repository is automatically synced with accepted LeetCode submissions using
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/Nidzz07/leetcode-grind/tree/master/0176-second-highest-salary) |
+| [0178-rank-scores](https://github.com/Nidzz07/leetcode-grind/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/Nidzz07/leetcode-grind/tree/master/0180-consecutive-numbers) |
 | [0183-customers-who-never-order](https://github.com/Nidzz07/leetcode-grind/tree/master/0183-customers-who-never-order) |
 | [0185-department-top-three-salaries](https://github.com/Nidzz07/leetcode-grind/tree/master/0185-department-top-three-salaries) |
