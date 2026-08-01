@@ -55,6 +55,7 @@ This repository is automatically synced with accepted LeetCode submissions using
 | [0066-plus-one](https://github.com/Nidzz07/leetcode-grind/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Nidzz07/leetcode-grind/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Nidzz07/leetcode-grind/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nidzz07/leetcode-grind/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Nidzz07/leetcode-grind/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Nidzz07/leetcode-grind/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/Nidzz07/leetcode-grind/tree/master/0682-baseball-game) |
@@ -117,6 +118,7 @@ This repository is automatically synced with accepted LeetCode submissions using
 | [0035-search-insert-position](https://github.com/Nidzz07/leetcode-grind/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Nidzz07/leetcode-grind/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Nidzz07/leetcode-grind/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nidzz07/leetcode-grind/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/Nidzz07/leetcode-grind/tree/master/0222-count-complete-tree-nodes) |
 | [0704-binary-search](https://github.com/Nidzz07/leetcode-grind/tree/master/0704-binary-search) |
 ## Tree
