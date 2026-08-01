@@ -54,6 +54,7 @@ This repository is automatically synced with accepted LeetCode submissions using
 | [0169-majority-element](https://github.com/Nidzz07/leetcode-grind/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Nidzz07/leetcode-grind/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/Nidzz07/leetcode-grind/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/Nidzz07/leetcode-grind/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/Nidzz07/leetcode-grind/tree/master/0860-lemonade-change) |
 | [0896-monotonic-array](https://github.com/Nidzz07/leetcode-grind/tree/master/0896-monotonic-array) |
 | [0976-largest-perimeter-triangle](https://github.com/Nidzz07/leetcode-grind/tree/master/0976-largest-perimeter-triangle) |
@@ -109,6 +110,7 @@ This repository is automatically synced with accepted LeetCode submissions using
 | ------- |
 | [0069-sqrtx](https://github.com/Nidzz07/leetcode-grind/tree/master/0069-sqrtx) |
 | [0222-count-complete-tree-nodes](https://github.com/Nidzz07/leetcode-grind/tree/master/0222-count-complete-tree-nodes) |
+| [0704-binary-search](https://github.com/Nidzz07/leetcode-grind/tree/master/0704-binary-search) |
 ## Tree
 |  |
 | ------- |
