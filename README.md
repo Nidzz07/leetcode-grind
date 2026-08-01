@@ -48,6 +48,7 @@ This repository is automatically synced with accepted LeetCode submissions using
 | [0011-container-with-most-water](https://github.com/Nidzz07/leetcode-grind/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nidzz07/leetcode-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Nidzz07/leetcode-grind/tree/master/0031-next-permutation) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nidzz07/leetcode-grind/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Nidzz07/leetcode-grind/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/Nidzz07/leetcode-grind/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Nidzz07/leetcode-grind/tree/master/0066-plus-one) |
@@ -109,6 +110,7 @@ This repository is automatically synced with accepted LeetCode submissions using
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nidzz07/leetcode-grind/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Nidzz07/leetcode-grind/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Nidzz07/leetcode-grind/tree/master/0069-sqrtx) |
 | [0222-count-complete-tree-nodes](https://github.com/Nidzz07/leetcode-grind/tree/master/0222-count-complete-tree-nodes) |
